@@ -1,0 +1,1 @@
+export const weekdays = [" Söndag"," Måndag","Tisdag"," Onsdag","Torsdag"," Fredag","Lördag"]
